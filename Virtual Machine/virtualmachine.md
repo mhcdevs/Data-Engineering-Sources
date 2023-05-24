@@ -45,7 +45,7 @@ These companies are using VMs to run a variety of data science projects, includi
 
 > g.Next, change the boot disk with the following configurations:
 
-![alt text](img/Vm2.png)
+![alt text](img/vm2.png)
 
 *Click the Create button.*
 
